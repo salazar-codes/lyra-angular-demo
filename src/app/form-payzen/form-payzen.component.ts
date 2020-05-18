@@ -21,8 +21,8 @@ export class FormPayzenComponent implements OnInit {
 
   ngOnInit() {
 
-    const endpoint = "https://api.payzen.lat";
-    const publicKey = "50156632:testpublickey_BxvG8ICK4mjWAyhY2IPePXQfW0moalef6HCZUlFqSXX4k";
+    const endpoint = "";
+    const publicKey = "";
     // const formToken = "DEMO-TOKEN-TO-BE-REPLACED";
     
     console.log('ESTO SE ENVÍA',this.payzenCreatePaymentRequest);
