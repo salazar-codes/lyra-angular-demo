@@ -1,0 +1,7 @@
+{
+    "/api-payment/V4/*": {
+      "target": "https://api.payzen.lat",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
